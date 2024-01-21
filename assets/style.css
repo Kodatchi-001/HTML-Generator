@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(71, 71, 71);
+}
+h1{
+    font-size: 50px;
+}
+img{
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+}
